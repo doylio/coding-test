@@ -13,7 +13,7 @@ Create the frontend for a comment system in our platform. Attached is an image f
 ## Design
 
 The designer has given you this design to work with
-![comments design](https://imgur.com/a/F8X5Gkt)
+![comments design](https://i.imgur.com/ODgAHph.png)
 
 ## Notes
 
