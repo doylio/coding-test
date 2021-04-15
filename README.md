@@ -12,7 +12,7 @@ Create the frontend for a comment system in our platform. Attached is an image f
 
 ## Design
 
-The designer has given you this design to work with
+The designer has given you this design to work with.  For the purposes of this exercise, you can ignore the header and footer
 ![comments design](https://i.imgur.com/ODgAHph.png)
 
 ## Notes
