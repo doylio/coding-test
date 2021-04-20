@@ -35,20 +35,20 @@ const Users: User[] = [
 const Comments: Comment[] = [
   {
     id: "0",
-    createdAt: "2021-04-04T02:07:36.000Z",
+    createdAt: "Sep 6 5:30AM",
     text: "Carl, have you finished the inspection of the fuel storage area?",
     user: Users[2],
   },
   {
     id: "1",
-    createdAt: "2021-04-05T05:54:16.000Z",
+    createdAt: "Sep 6 6:00AM",
     text:
       "Not yet Mr Burns. I'm waiting for Homer Simpson to finish the safety procedures",
     user: Users[1],
   },
   {
     id: "2",
-    createdAt: "2021-04-05T11:27:36.000Z",
+    createdAt: "Sep 6 6:15AM",
     text: "Simpson eh?",
     user: Users[2],
   },
